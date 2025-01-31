@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayank Gaur 99</h1>
+<h1 align="center">Hi 👋, I'm Mayank Gaur </h1>
 
 <p align="center">
   An aspiring tech enthusiast committed to continuous learning and driven to make a positive societal impact through innovative solutions.
@@ -12,15 +12,15 @@
 ### 🚀 About Me:
 - 🔧 I'm currently learning **Data Structures and Algorithms**.
 - 🌟 I'm looking to collaborate on **AI & ML-related projects**.
-- 📂 All of my projects are available at **[GitHub](https://github.com/mayankgaur)**.
+- 📂 All of my projects are available at **[GitHub](https://github.com/mayankgaur0405)**.
 - 💡 Ask me about **C++, Java, Web Development**.
-- 📫 How to reach me: **mayankgaur0307@gmail.com**.
+- 📫 How to reach me: **mayankgaur1504@gmail.com**.
 
 ---
 
 ### 📬 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/mayankgaur" target="_blank">
+  <a href="https://www.linkedin.com/in/mayank-gaur-36b382254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-MayankGaur-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
