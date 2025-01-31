@@ -11,9 +11,9 @@
 - 📫 How to reach me: **mayankgaur1504@gmail.com**.  
 
 #### 🌍 Coding Profiles:  
-- **LeetCode:** [leetcode.com/mayankgaur](https://leetcode.com/mayankgaur/)  
-- **GeeksforGeeks:** [auth.geeksforgeeks.org/user/mayankgaur](https://auth.geeksforgeeks.org/user/mayankgaur/)  
-- **CodeChef:** [www.codechef.com/users/mayankgaur](https://www.codechef.com/users/mayankgaur)  
+- **LeetCode:** [mayankgaur_8](https://leetcode.com/u/mayankgaur_8/)  
+- **GeeksforGeeks:** [mayankgapzpp](https://www.geeksforgeeks.org/user/mayankgapzpp/)  
+- **CodeChef:** [mayank_gaur_45](https://www.codechef.com/users/mayank_gaur_45)  
 
 
 ---
