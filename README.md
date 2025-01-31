@@ -11,7 +11,6 @@
 
 ### 🚀 About Me:
 - 🔧 I'm currently learning **Data Structures and Algorithms**.
-- 🌟 I'm looking to collaborate on **AI & ML-related projects**.
 - 📂 All of my projects are available at **[GitHub](https://github.com/mayankgaur0405)**.
 - 💡 Ask me about **C++, Java, Web Development**.
 - 📫 How to reach me: **mayankgaur1504@gmail.com**.
