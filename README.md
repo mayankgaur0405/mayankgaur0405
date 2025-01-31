@@ -6,20 +6,15 @@
 
 ---
 
-### 🔥 Profile Views:  
-![Profile Views](https://komarev.com/ghpvc/?username=mayankgaur&label=Profile%20Views&color=0e75b6&style=flat)
+- 🔧 I'm currently learning **Data Structures and Algorithms**.  
+- 💡 Ask me about **C++, Java, Web Development**.  
+- 📫 How to reach me: **mayankgaur1504@gmail.com**.  
 
-### 🚀 About Me:
-- 🔧 I'm currently learning **Data Structures and Algorithms**.
-- 💡 Ask me about **C++, Java, Web Development**.
-- 📫 How to reach me: **mayankgaur1504@gmail.com**.
+#### 🌍 Coding Profiles:  
+- **LeetCode:** [leetcode.com/mayankgaur](https://leetcode.com/mayankgaur/)  
+- **GeeksforGeeks:** [auth.geeksforgeeks.org/user/mayankgaur](https://auth.geeksforgeeks.org/user/mayankgaur/)  
+- **CodeChef:** [www.codechef.com/users/mayankgaur](https://www.codechef.com/users/mayankgaur)  
 
----
-
-🌍 Coding Profiles:
-LeetCode: https://leetcode.com/u/mayankgaur_8/.
-GeeksforGeeks: https://www.geeksforgeeks.org/user/mayankgapzpp/.
-CodeChef: https://www.codechef.com/users/mayank_gaur_45.
 
 ---
 
