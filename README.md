@@ -11,9 +11,15 @@
 
 ### 🚀 About Me:
 - 🔧 I'm currently learning **Data Structures and Algorithms**.
-- 📂 All of my projects are available at **[GitHub](https://github.com/mayankgaur0405)**.
 - 💡 Ask me about **C++, Java, Web Development**.
 - 📫 How to reach me: **mayankgaur1504@gmail.com**.
+
+---
+
+🌍 Coding Profiles:
+LeetCode: https://leetcode.com/u/mayankgaur_8/
+GeeksforGeeks: https://www.geeksforgeeks.org/user/mayankgapzpp/
+CodeChef: https://www.codechef.com/users/mayank_gaur_45
 
 ---
 
