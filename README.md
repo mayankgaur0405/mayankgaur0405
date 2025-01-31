@@ -17,9 +17,9 @@
 ---
 
 🌍 Coding Profiles:
-LeetCode: https://leetcode.com/u/mayankgaur_8/
-GeeksforGeeks: https://www.geeksforgeeks.org/user/mayankgapzpp/
-CodeChef: https://www.codechef.com/users/mayank_gaur_45
+LeetCode: https://leetcode.com/u/mayankgaur_8/.
+GeeksforGeeks: https://www.geeksforgeeks.org/user/mayankgapzpp/.
+CodeChef: https://www.codechef.com/users/mayank_gaur_45.
 
 ---
 
