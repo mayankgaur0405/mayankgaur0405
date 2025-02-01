@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/GitHub-MayankGaur-black?style=flat&logo=github" alt="GitHub" />
   </a>
   <a href="tel:+918929641963">
-    <img src="https://img.shields.io/badge/Phone-+91%207303673276-green?style=flat&logo=whatsapp" alt="Phone" />
+    <img src="https://img.shields.io/badge/Phone-+91%208929641963green?style=flat&logo=whatsapp" alt="Phone" />
   </a>
 </p>
 
