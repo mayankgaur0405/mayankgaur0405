@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/mayank-gaur-36b382254/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/mayankgaur_8" target="_blank">
+  <a href="https://www.instagram.com/mayankgaur.8?igsh=ZmJ1ODYyZmZlcHBq" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram" alt="Instagram" />
   </a>
   <a href="https://github.com/mayankgaur0405" target="_blank">
