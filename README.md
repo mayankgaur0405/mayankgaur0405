@@ -21,16 +21,16 @@
 ### 📬 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/mayank-gaur-36b382254/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-MayankGaur-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/mayankgaur_8" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-MayankGaur-purple?style=flat&logo=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram" alt="Instagram" />
   </a>
   <a href="https://github.com/mayankgaur0405" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-MayankGaur-black?style=flat&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" alt="GitHub" />
   </a>
-  <a href="tel:+918929641963">
-    <img src="https://img.shields.io/badge/Phone-+91%208929641963green?style=flat&logo=whatsapp" alt="Phone" />
+  <a href="https://wa.me/918929641963" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=whatsapp" alt="WhatsApp" />
   </a>
 </p>
 
