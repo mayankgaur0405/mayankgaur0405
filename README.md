@@ -5,6 +5,9 @@
 </p>
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=mayankgaur0405&label=Profile%20Views&color=blue&style=flat)
+
 ### 🚀 About Me:
 - 🔧 I'm currently learning **Data Structures and Algorithms**.  
 - 💡 Ask me about **C++, Java, Web Development**.  
