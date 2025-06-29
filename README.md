@@ -53,10 +53,6 @@
 - 🌐 **Fraud-Free Tourism Platforms**
 - 🔐 **JWT, APIs, and Secure Web Apps**
 
----
-
-> _"Code is like humor. When you have to explain it, it’s bad."_  
-> — *Cory House*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayankgaur0405&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
@@ -70,5 +66,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayankgaur0405/mayankgaur0405/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_  
+> — *Cory House*
 
 
