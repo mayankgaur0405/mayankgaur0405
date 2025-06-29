@@ -65,16 +65,6 @@
 
 ---
 
-### 📈 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgaur&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-
----
-
 ### 🐍 Watch my GitHub contributions come to life:
 
 <p align="center">
