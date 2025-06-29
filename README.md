@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me:
 I'm a developer who enjoys combining logic and creativity to build practical and user-friendly applications.  
-While I’ve spent a lot of time learning **C++, Java**, and exploring **Data Structures & Algorithms**, I approach problem-solving with a calm and steady mindset — always open to learning more, not rushing it.
+While I’ve spent a lot of time learning **C++**, and exploring **Data Structures & Algorithms**, I approach problem-solving with a calm and steady mindset — always open to learning more, not rushing it.
 
 Right now, I’m focusing on:
 
