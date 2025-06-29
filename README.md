@@ -72,3 +72,13 @@
 
 ---
 
+
+---
+
+### 🐍 Watch my GitHub contributions come to life:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankgaur0405/mayankgaur0405/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+
