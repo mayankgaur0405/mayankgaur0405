@@ -31,16 +31,6 @@ I believe in clean code, continuous learning, and meaningful collaboration.
   <img src="https://komarev.com/ghpvc/?username=mayankgaur0405&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
 
-
----
-
-### 🐍 Watch my GitHub contributions come to life:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayankgaur0405/mayankgaur0405/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
 ---
 
 > _"A still mind writes cleaner code. Think deeply, breathe slowly, code clearly."_  
