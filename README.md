@@ -65,9 +65,10 @@
 
 ---
 
-### 🐍 Watch my contribution graph get eaten by a snake 🐍
+### 🐍 Watch my GitHub contributions come to life:
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayankgaur0405/mayankgaur0405/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/mayankgaur0405/mayankgaur0405/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
