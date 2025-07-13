@@ -64,7 +64,7 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** pursuing B.Tech
       <td width="50%" valign="top">
         <h3 align="center">🎤 <a href="https://github.com/mayankgaur0405/IntervueX">IntervueX</a></h3>
         <p align="center">
-          <a href="https://intervuex.vercel.app">
+          <a href="https://intervue-x.vercel.app/">
             <img src="https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge" alt="Status" />
           </a>
         </p>
