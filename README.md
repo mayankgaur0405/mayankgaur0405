@@ -33,18 +33,18 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** pursuing B.Tech
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🏥 <a href="https://github.com/mayankgaur0405/Swasthya-Setu">Swasthya-Setu</a></h3>
+        <h3 align="center">🏥 <a href="https://github.com/mayankgaur0405/Swasthya-Setu-NX.git">Swasthya-Setu NX</a></h3>
         <p align="center">
-          <a href="https://swasthya-setu.vercel.app">
+          <a href="https://swasthya-setu-nx.vercel.app/">
             <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
           </a>
         </p>
-        <p>
-          • Dual-role telemedicine platform with JWT auth<br>
-          • Real-time appointment and communication system<br>
-          • RESTful APIs and modular MongoDB schema<br>
-          • <b>Tech Stack:</b> MERN Stack, JWT, Tailwind
-        </p>
+         <p>
+  • Multi-role telemedicine app: Admin, Doctor, Patient<br>
+  • Credit-based booking with live consults (Vonage)<br>
+  • Auto payouts, optimized DB, faster APIs (Prisma)<br>
+  • <b>Tech:</b> Next.js, Prisma, Clerk, PostgreSQL, Tailwind, shadcn/ui
+</p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center">🧠 <a href="https://github.com/mayankgaur0405/Swasthya-Setu-Pro">Swasthya-Setu Pro</a></h3>
