@@ -39,12 +39,12 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** pursuing B.Tech
             <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
           </a>
         </p>
-         <p>
-  • Multi-role telemedicine app: Admin, Doctor, Patient<br>
-  • Credit-based booking with live consults (Vonage)<br>
-  • Auto payouts, optimized DB, faster APIs (Prisma)<br>
-  • <b>Tech:</b> Next.js, Prisma, Clerk, PostgreSQL, Tailwind, shadcn/ui
-</p>
+        <p>
+          • Multi-role telemedicine app: Admin, Doctor, Patient<br>
+          • Credit-based booking with live consults (Vonage)<br>
+          • Auto payouts, optimized DB, faster APIs (Prisma)<br>
+          • <b>Tech:</b> Next.js, Prisma, Clerk, PostgreSQL, Tailwind, shadcn/ui
+        </p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center">🧠 <a href="https://github.com/mayankgaur0405/Swasthya-Setu-Pro">Swasthya-Setu Pro</a></h3>
@@ -74,9 +74,26 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** pursuing B.Tech
           • <b>Tech Stack:</b> Next.js, Firebase, Gemini API, VAPI
         </p>
       </td>
+      <td width="50%" valign="top">
+        <h3 align="center">💬 <a href="https://github.com/mayankgaur0405/TalkTown.git">TalkTown</a></h3>
+        <p align="center">
+          <a href="https://talktown-jphx.onrender.com/">
+            <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
+          </a>
+        </p>
+        <p>
+          • Real-time MERN chat app with Socket.io<br>
+          • JWT Auth, online users, clean UI (DaisyUI)<br>
+          • MongoDB Atlas, error handling, full-stack deploy<br>
+          • <b>Tech:</b> React.js, Node.js, Express, MongoDB, Zustand, Socket.io, TailwindCSS, DaisyUI
+        </p>
+      </td>
     </tr>
   </table>
 </div>
+
+---
+
 
 ---
 
