@@ -127,7 +127,7 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** pursuing B.Tech
       <td>
         <ul>
           <li>Solved 550+ coding problems on LeetCode (Rating: 1450+)</li>
-          <li>Top 8.7k out of 15,000+ in a national LeetCode contest</li>
+          <li>Top 8.7k out of 22,000+ in a national LeetCode contest</li>
           <li>Certified in MERN Stack by Apna College</li>
           <li>Participated in 3+ national hackathons including SIH 2024</li>
           <li>Won school cricket championship as team captain</li>
