@@ -32,20 +32,21 @@ I'm a passionate **Full Stack Developer** and **DSA Enthusiast** pursuing B.Tech
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🏥 <a href="https://github.com/mayankgaur0405/Swasthya-Setu-NX.git">Swasthya-Setu NX</a></h3>
-        <p align="center">
-          <a href="https://swasthya-setu-nx.vercel.app/">
-            <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
-          </a>
-        </p>
-        <p>
-          • Multi-role telemedicine app: Admin, Doctor, Patient<br>
-          • Credit-based booking with live consults (Vonage)<br>
-          • Auto payouts, optimized DB, faster APIs (Prisma)<br>
-          • <b>Tech:</b> Next.js, Prisma, Clerk, PostgreSQL, Tailwind, shadcn/ui
-        </p>
-      </td>
+     <td width="50%" valign="top">
+  <h3 align="center">🏥 <a href="https://github.com/mayankgaur0405/Swasthya-Setu">Swasthya-Setu</a></h3>
+  <p align="center">
+    <a href="https://swasthya-setu-six.vercel.app/">
+      <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live Status" />
+    </a>
+  </p>
+  <p>
+    • Full-stack telemedicine & appointment platform<br>
+    • Real-time video consultation via Zegocloud<br>
+    • JWT-auth, role-based routing (Patient, Doctor, Admin)<br>
+    • Scalable APIs + MongoDB patient records<br>
+    • <b>Tech:</b> React.js, Express.js, MongoDB, Tailwind CSS, JWT
+  </p>
+</td>
       <td width="50%" valign="top">
         <h3 align="center">🧠 <a href="https://github.com/mayankgaur0405/Swasthya-Setu-Pro">Swasthya-Setu Pro</a></h3>
         <p align="center">
