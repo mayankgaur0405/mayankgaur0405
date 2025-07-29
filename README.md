@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** and **DSA Enthusiast** pursuing B.Tech in Information Technology at GL Bajaj Institute of Technology and Management. As Co-Director of the CodeSpace Club's technical team, I focus on building scalable, secure applications and continuously improving my data structure and algorithm skills.
+I'm a passionate **Full MERN Stack Developer** and **DSA Enthusiast** pursuing B.Tech in Information Technology at GL Bajaj Institute of Technology and Management. As Co-Director of the CodeSpace Club's technical team, I focus on building scalable, secure applications and continuously improving my data structure and algorithm skills.
 
 ---
 
