@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Gaur</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=500&height=60&lines=Full+Stack+MERN+Developer;DSA+Enthusiast;CodeSpace+Tech+Co-Director;550%2B+DSA+Problems+Solved;Java+Backend+Enthusiast;Python+Django+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=500&height=60&lines=Full+Stack+MERN+Developer;GSSOC'25+Open+Source+Contributer;DSA+Enthusiast;CodeSpace+Tech+Co-Director;550%2B+DSA+Problems+Solved;Java+Backend+Enthusiast;Python+Django+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
