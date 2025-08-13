@@ -32,36 +32,40 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
 <div align="center">
   <table>
     <tr>
-     <td width="50%" valign="top">
-  <h3 align="center">🏥 <a href="https://github.com/mayankgaur0405/Swasthya-Setu">Swasthya-Setu</a></h3>
-  <p align="center">
-    <a href="https://swasthya-setu-six.vercel.app/">
-      <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live Status" />
-    </a>
-  </p>
-  <p>
-    • Full-stack telemedicine & appointment platform<br>
-    • Real-time video consultation via Zegocloud<br>
-    • JWT-auth, role-based routing (Patient, Doctor, Admin)<br>
-    • Scalable APIs + MongoDB patient records<br>
-    • <b>Tech:</b> React.js, Express.js, MongoDB, Tailwind CSS, JWT
-  </p>
-</td>
       <td width="50%" valign="top">
-        <h3 align="center">🧠 <a href="https://github.com/mayankgaur0405/Swasthya-Setu-Pro">Swasthya-Setu Pro</a></h3>
+        <h3 align="center">🏥🧠 <a href="https://github.com/mayankgaur0405/Swasthya-Setu">Swasthya-Setu</a></h3>
         <p align="center">
-          <a href="https://swasthya-setu-pro.vercel.app">
-            <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" alt="Status" />
+          <a href="https://swasthya-setu-six.vercel.app/">
+            <img src="https://img.shields.io/badge/Swasthya_Setu-Live-success?style=for-the-badge" alt="Live Status" />
           </a>
         </p>
         <p>
-          • AI-driven voice diagnostics and NeonDB for storage<br>
-          • Integrated Clerk for auth and responsive UI<br>
-          • <b>Tech Stack:</b> Next.js, Clerk, AssemblyAI, NeonDB
+         • Healthcare platforms with Zegocloud video calls.<br>
+      • AI agent via AssemblyAI for diagnosis.<br>
+      • Data security with MongoDB and NeonDB.<br>
+      • Clerk authentication and role-based routing.<br>
+      • <b>Tech:</b> MERN, Next.js, Tailwind, Clerk, AssemblyAI, NeonDB, JWT
+        </p>
+      </td>
+
+   <td width="50%" valign="top">
+        <h3 align="center">💻 <a href="https://github.com/mayankgaur0405/Dev2Gether">Dev2Gether</a></h3>
+        <p align="center">
+          <a href="https://dev2gether.onrender.com/">
+            <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live Status" />
+          </a>
+        </p>
+        <p>
+       • Built collaborative IDE for four programming languages.<br>
+      • Live multi-user editing with Socket.io integration.<br>
+      • Dynamic rooms, language switching, and activity tracking.<br>
+      • Real-time code execution directly in browser.<br>
+      • <b>Tech:</b> MERN, Monaco Editor, Socket.io
         </p>
       </td>
     </tr>
-    <tr>
+
+  <tr>
       <td width="50%" valign="top">
         <h3 align="center">🎤 <a href="https://github.com/mayankgaur0405/IntervueX">IntervueX</a></h3>
         <p align="center">
@@ -70,12 +74,14 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
           </a>
         </p>
         <p>
-          • AI-powered mock interview platform<br>
-          • Google Gemini API + VAPI for real-time feedback<br>
-          • <b>Tech Stack:</b> Next.js, Firebase, Gemini API, VAPI
-        </p>
+        • AI-powered mock interview practice platform.<br>
+• Google Gemini API + VAPI for real-time feedback.<br>
+• Instant performance analytics with improvement tips.<br>
+• Supports multiple roles and difficulty levels.<br>
+• <b>Tech Stack:</b> Next.js, Firebase, Gemini API, VAPI
       </td>
-      <td width="50%" valign="top">
+
+   <td width="50%" valign="top">
         <h3 align="center">💬 <a href="https://github.com/mayankgaur0405/TalkTown.git">TalkTown</a></h3>
         <p align="center">
           <a href="https://talktown-8lif.onrender.com/">
