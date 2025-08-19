@@ -66,20 +66,22 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
     </tr>
 
   <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🎤 <a href="https://github.com/mayankgaur0405/IntervueX">IntervueX</a></h3>
-        <p align="center">
-          <a href="https://intervue-x.vercel.app/">
-            <img src="https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge" alt="Status" />
-          </a>
-        </p>
-        <p>
-        • AI-powered mock interview practice platform.<br>
-• Google Gemini API + VAPI for real-time feedback.<br>
-• Instant performance analytics with improvement tips.<br>
-• Supports multiple roles and difficulty levels.<br>
-• <b>Tech Stack:</b> Next.js, Firebase, Gemini API, VAPI
-      </td>
+     <td width="50%" valign="top">
+  <h3 align="center">🔗 <a href="https://github.com/mayankgaur0405/GLConnect">GLConnect</a></h3>
+  <p align="center">
+    <a href="https://glconnect.vercel.app/">
+      <img src="https://img.shields.io/badge/Status-Development-blue?style=for-the-badge" alt="Status" />
+    </a>
+  </p>
+  <p>
+    • Peer-to-peer student networking platform.<br>
+    • Profiles with roadmaps and resources.<br>
+    • Interview experiences feed and profiles.<br>
+    • Follow system for mentorship connections.<br>
+    • <b>Tech Stack:</b> MERN, TailwindCSS, JWT Auth
+  </p>
+</td>
+
 
    <td width="50%" valign="top">
         <h3 align="center">💬 <a href="https://github.com/mayankgaur0405/TalkTown.git">TalkTown</a></h3>
