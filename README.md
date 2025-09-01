@@ -41,7 +41,7 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
         </p>
         <p>
          • Healthcare platforms with Zegocloud video calls.<br>
-      • AI agent via AssemblyAI for diagnosis.<br>
+      • Planned AI agent via AssemblyAI for diagnosis.<br>
       • Data security with MongoDB and NeonDB.<br>
       • Clerk authentication and role-based routing.<br>
       • <b>Tech:</b> MERN, Next.js, Tailwind, Clerk, AssemblyAI, NeonDB, JWT
