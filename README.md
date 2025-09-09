@@ -69,11 +69,6 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 
-  <!-- Linktree -->
-  <a href="https://linktr.ee/mayankgaur" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a>
-
 </div>
 
 
