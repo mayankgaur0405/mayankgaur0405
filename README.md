@@ -27,10 +27,55 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
 
   <br><br>
 
-  <!-- Modern Animated SVG Banner -->
+<div align="center">
+
+  <!-- GitHub -->
   <a href="https://linktr.ee/mayankgaur" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=36D1DC&center=true&vCenter=true&width=700&height=70&lines=🌟+Explore+All+My+Profiles;🔗+GitHub;🔗+LinkedIn;🔗+Portfolio;🔗+LeetCode;🔗+GFG;🔗+CodeChef;✨+Stay+Connected+with+Mayank+Gaur" alt="Modern Linktree Banner" />
+    <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linktr.ee/mayankgaur" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://linktr.ee/mayankgaur" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://linktr.ee/mayankgaur" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://linktr.ee/mayankgaur" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+
+  <!-- Email -->
+  <a href="https://linktr.ee/mayankgaur" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://linktr.ee/mayankgaur" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+
+  <!-- Resume -->
+  <a href="https://linktr.ee/mayankgaur" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
+
+  <!-- Linktree -->
+  <a href="https://linktr.ee/mayankgaur" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+
+</div>
+
 
 </div>
 
