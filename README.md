@@ -120,7 +120,7 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
   <h3 align="center">🔗 <a href="https://github.com/mayankgaur0405/GL-PeerBajaj.git">GL PeerBajaj</a></h3>
   <p align="center">
     <a href="https://gl-peer-bajaj.vercel.app/">
-      <img src="https://img.shields.io/badge/Status-Development-blue?style=for-the-badge" alt="Status" />
+      <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
     </a>
   </p>
   <p>
