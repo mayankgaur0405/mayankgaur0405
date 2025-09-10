@@ -117,9 +117,9 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
 
   <tr>
      <td width="50%" valign="top">
-  <h3 align="center">🔗 <a href="https://github.com/mayankgaur0405/GLConnect">GLConnect</a></h3>
+  <h3 align="center">🔗 <a href="https://github.com/mayankgaur0405/GL-PeerBajaj.git">GL PeerBajaj</a></h3>
   <p align="center">
-    <a href="https://glconnect.vercel.app/">
+    <a href="https://gl-peer-bajaj.vercel.app/">
       <img src="https://img.shields.io/badge/Status-Development-blue?style=for-the-badge" alt="Status" />
     </a>
   </p>
