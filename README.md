@@ -82,21 +82,7 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🏥🧠 <a href="https://github.com/mayankgaur0405/Swasthya-Setu">Swasthya-Setu</a></h3>
-        <p align="center">
-          <a href="https://swasthya-setu-six.vercel.app/">
-            <img src="https://img.shields.io/badge/Swasthya_Setu-Live-success?style=for-the-badge" alt="Live Status" />
-          </a>
-        </p>
-        <p>
-         • Healthcare platforms with Zegocloud video calls.<br>
-      • Planned AI agent via AssemblyAI for diagnosis.<br>
-      • Data security with MongoDB and NeonDB.<br>
-      • Clerk authentication and role-based routing.<br>
-      • <b>Tech:</b> MERN, Next.js, Tailwind, Clerk, AssemblyAI, NeonDB, JWT
-        </p>
-      </td>
+     
 
    <td width="50%" valign="top">
         <h3 align="center">💻 <a href="https://github.com/mayankgaur0405/Dev2Gether">Dev2Gether</a></h3>
@@ -113,10 +99,8 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
       • <b>Tech:</b> MERN, Monaco Editor, Socket.io
         </p>
       </td>
-    </tr>
 
-  <tr>
-     <td width="50%" valign="top">
+<td width="50%" valign="top">
   <h3 align="center">🔗 <a href="https://github.com/mayankgaur0405/GL-PeerBajaj.git">GL PeerBajaj</a></h3>
   <p align="center">
     <a href="https://gl-peer-bajaj.vercel.app/">
@@ -131,6 +115,26 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
     • <b>Tech Stack:</b> MERN, TailwindCSS, JWT Auth
   </p>
 </td>
+    </tr>
+
+  <tr>
+     
+
+ <td width="50%" valign="top">
+        <h3 align="center">🏥🧠 <a href="https://github.com/mayankgaur0405/Swasthya-Setu">Swasthya-Setu</a></h3>
+        <p align="center">
+          <a href="https://swasthya-setu-six.vercel.app/">
+            <img src="https://img.shields.io/badge/Swasthya_Setu-Live-success?style=for-the-badge" alt="Live Status" />
+          </a>
+        </p>
+        <p>
+         • Healthcare platforms with Zegocloud video calls.<br>
+      • Planned AI agent via AssemblyAI for diagnosis.<br>
+      • Data security with MongoDB and NeonDB.<br>
+      • Clerk authentication and role-based routing.<br>
+      • <b>Tech:</b> MERN, Next.js, Tailwind, Clerk, AssemblyAI, NeonDB, JWT
+        </p>
+      </td>
 
 
    <td width="50%" valign="top">
