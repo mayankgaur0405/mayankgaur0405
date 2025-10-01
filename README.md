@@ -99,8 +99,25 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
       • <b>Tech:</b> MERN, Monaco Editor, Socket.io
         </p>
       </td>
+      <td width="50%" valign="top">
+  <h3 align="center">🔗 <a href="https://github.com/mayankgaur0405/MG-Virtual-Line.git">MG Virtual Line</a></h3>
+  <p align="center">
+    <a href="https://mg-virtual-line.vercel.app/">
+      <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
+    </a>
+  </p>
+  <p>
+    • Digital queue system with real-time token updates.<br>
+    • QR code scanning for instant queue joining.<br>
+    • Admin dashboard with queue controls and notifications.<br>
+    • Multi-vendor support, history tracking, mobile design.<br>
+    • <b>Tech Stack:</b> Node.js, Express, MongoDB, Socket.io, TailwindCSS
+  </p>
+</td>
+</tr>
 
-<td width="50%" valign="top">
+  <tr>
+       <td width="50%" valign="top">
   <h3 align="center">🔗 <a href="https://github.com/mayankgaur0405/GL-PeerBajaj.git">GL PeerBajaj</a></h3>
   <p align="center">
     <a href="https://gl-peer-bajaj.vercel.app/">
@@ -115,10 +132,6 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
     • <b>Tech Stack:</b> MERN, TailwindCSS, JWT Auth
   </p>
 </td>
-    </tr>
-
-  <tr>
-     
 
  <td width="50%" valign="top">
         <h3 align="center">🏥🧠 <a href="https://github.com/mayankgaur0405/Swasthya-Setu">Swasthya-Setu</a></h3>
@@ -133,22 +146,6 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
       • Data security with MongoDB and NeonDB.<br>
       • Clerk authentication and role-based routing.<br>
       • <b>Tech:</b> MERN, Next.js, Tailwind, Clerk, AssemblyAI, NeonDB, JWT
-        </p>
-      </td>
-
-
-   <td width="50%" valign="top">
-        <h3 align="center">💬 <a href="https://github.com/mayankgaur0405/TalkTown.git">TalkTown</a></h3>
-        <p align="center">
-          <a href="https://talktown-8lif.onrender.com/">
-            <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
-          </a>
-        </p>
-        <p>
-          • Real-time MERN chat app with Socket.io<br>
-          • JWT Auth, online users, clean UI (DaisyUI)<br>
-          • MongoDB Atlas, error handling, full-stack deploy<br>
-          • <b>Tech:</b> React.js, Node.js, Express, MongoDB, Zustand, Socket.io, TailwindCSS, DaisyUI
         </p>
       </td>
     </tr>
