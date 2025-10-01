@@ -102,7 +102,7 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast** and **GSSOC'25 Ope
       <td width="50%" valign="top">
   <h3 align="center">🔗 <a href="https://github.com/mayankgaur0405/MG-Virtual-Line.git">MG Virtual Line</a></h3>
   <p align="center">
-    <a href="https://mg-virtual-line.vercel.app/">
+    <a href="https://mg-virtual-line.onrender.com/">
       <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
     </a>
   </p>
